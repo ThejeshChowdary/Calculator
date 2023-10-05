@@ -1,0 +1,22 @@
+.cal{
+    width: 250px;
+    border: 5px solid;
+    padding: 5px;
+    background-color: rgb(183, 180, 180);
+}
+#box{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+.num{
+    margin-left: 16px;
+}
+button{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    color: white;
+    background-color: rgb(61, 58, 58);
+}
